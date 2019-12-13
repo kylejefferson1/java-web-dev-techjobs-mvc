@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
- * Created by LaunchCode
+ * C
  */
 @Controller
 @RequestMapping(value = "list")
